@@ -29,6 +29,6 @@ Clone this repository
 
 Get your free API key from OpenWeatherMap
 
-Replace "YOUR_API_KEY" in script.js
+Replace "apiKey" in index.js
 
 Open index.html in your browser
