@@ -13,7 +13,7 @@ Live temperature and humidity updates
 
 Weather condition text (e.g., "clear sky", "scattered clouds")
 
-Simple and mobile-friendly UI
+Simple and clean UI
 
 🛠️ Tech Stack
 HTML5
